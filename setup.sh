@@ -1,3 +1,5 @@
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-ln -sf ~/dotfiles/zshrc ~/.zshrc
+if [ $SPIN ]; then
+  ln -sf ~/dotfiles/zshrc ~/.zshrc
+fi
