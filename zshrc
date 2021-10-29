@@ -5,6 +5,8 @@ ZSH_THEME="gozilla"
 plugins=(
   git
   git-prompt
+  tmux
+  rails
 )
 
 # --- Source
