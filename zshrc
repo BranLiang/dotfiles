@@ -1,2 +1,12 @@
-alias ga="git add ."
-alias gc="git commit -m"
+ZSH_THEME="robbyrussell"
+
+# --- Plugins
+plugins=(
+  git
+  zsh-syntax-highlighting
+  zsh-autosuggestions
+)
+
+# --- Source
+source $ZSH/oh-my-zsh.sh
+
