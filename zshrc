@@ -7,6 +7,7 @@ plugins=(
   git-prompt
   tmux
   rails
+  gh
 )
 
 # --- Source
