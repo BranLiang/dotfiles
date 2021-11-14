@@ -2,7 +2,6 @@
 
 # Title        brew.sh
 # Description  Install/upgrade Homebrew packages and casks
-# Author       Zachi Nachshon <zachi.nachshon@gmail.com>
 #==============================================================================
 print_banner() {
   echo -e "

@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# -=-= Homebrew =-=-
+export HOMEBREW_CELLAR=/usr/local/Cellar
+export HOMEBREW_CASKROOM=/usr/local/Caskroom
+
+# -=-= Path =-=-
+export PATH=/usr/local/bin:/usr/bin
+
+# Do not unset these ENV vars since there are aliases that rely on them

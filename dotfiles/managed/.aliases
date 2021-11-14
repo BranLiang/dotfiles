@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# -=-= Custom =-=-
+alias dl="cd ~/Downloads"
