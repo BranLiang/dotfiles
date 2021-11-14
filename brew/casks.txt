@@ -1,0 +1,13 @@
+alfred
+google-chrome
+slack
+sequel-ace
+visual-studio-code
+iterm2
+flux
+expressvpn
+muzzle
+paw
+zoomus
+docker
+1password

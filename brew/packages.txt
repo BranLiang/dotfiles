@@ -1,0 +1,9 @@
+zsh
+zsh-syntax-highlighting
+fzf
+watch
+git
+wget
+telnet
+shellcheck
+jq
