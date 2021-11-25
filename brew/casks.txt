@@ -11,3 +11,4 @@ paw
 zoomus
 docker
 1password
+dash
